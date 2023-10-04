@@ -10,7 +10,7 @@ void preencherArray(int lista[],int tamanho){
 }
 
 void imprimirListaDezPrimerios(int lista[],int tamanho){
-    int maxPrint = 10;
+    int maxPrint = 200;
 
     printf("\n\t# Primeiros %d elementos: #\n ", maxPrint);
     for (int i = 0; i < maxPrint; i++){

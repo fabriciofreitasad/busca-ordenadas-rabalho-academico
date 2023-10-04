@@ -33,7 +33,7 @@ Este projeto foi criado como parte do aprendizado na Faculdade UniGoias e pode c
 
 ![image](https://github.com/fabriciofreitasad/busca-ordenadas-rabalho-academico/assets/111000422/ea724ecf-8f0e-4157-a201-015191e43d10)
 
-## Link do video do projeto completo no YouTube:
+## Link do video do projeto completo:
 
 ![image](https://github.com/fabriciofreitasad/busca-ordenadas-rabalho-academico/assets/111000422/739aab52-1aa4-4dd2-a88b-efe52b2fdc6d)
 
@@ -41,5 +41,6 @@ Este projeto foi criado como parte do aprendizado na Faculdade UniGoias e pode c
 
 ## Autor:
 Fabricio Freitas.
+Linkedin:
 [https://www.linkedin.com/in/fabricio-freitas-oliveira-645536242]
 
